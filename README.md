@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojointh&layout=compact)]
-[![JoJo's github stats](https://github-readme-stats.vercel.app/api?username=jojointh)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojointh&layout=compact)
+![jojo's github stats](https://github-readme-stats.vercel.app/api?username=jojointh&count_private=true)
 <!--
 **jojointh/jojointh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
